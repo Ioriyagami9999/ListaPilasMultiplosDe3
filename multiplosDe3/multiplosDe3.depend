@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1624236475 source:c:\users\iori9\desktop\programacion_orientada_objetos\lenguajes\c\codigo\consola\listapilasmultiplosdetres\multiplosde3\main.c
+	<stdio.h>
+	<limits.h>
+	<stdlib.h>
+
